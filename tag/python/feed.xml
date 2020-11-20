@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
+  <link href="https://ambito6666.github.io/tag/python/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="https://ambito6666.github.io/" rel="alternate" type="text/html" />
+  <updated>2020-11-20T12:13:03+09:00</updated>
+  <id>https://ambito6666.github.io/tag/python/feed.xml</id>
+
+  
+  
+  
+
+  
+    <title type="html">Dev. Ambito | </title>
+  
+
+  
+    <subtitle>1일 1포스팅 개발 블로그</subtitle>
+  
+
+  
+
+  
+    
+      
+    
+  
+
+  
+  
+
+  
+    <entry>
+      <title type="html">Today I Learned</title>
+      <link href="https://ambito6666.github.io/TIL" rel="alternate" type="text/html" title="Today I Learned" />
+      <published>2020-11-20T01:40:00+09:00</published>
+      <updated>2020-11-20T01:40:00+09:00</updated>
+      <id>https://ambito6666.github.io/TIL</id>
+      <content type="html" xml:base="https://ambito6666.github.io/TIL">&lt;p&gt;오늘은정말 재미있었다&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>ambito6666</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="python" />
+      
+
+      
+        <summary type="html">오늘은정말 재미있었다</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Today I Learned</title>
+      <link href="https://ambito6666.github.io/TIL" rel="alternate" type="text/html" title="Today I Learned" />
+      <published>2020-11-20T01:40:00+09:00</published>
+      <updated>2020-11-20T01:40:00+09:00</updated>
+      <id>https://ambito6666.github.io/TIL</id>
+      <content type="html" xml:base="https://ambito6666.github.io/TIL">&lt;p&gt;오늘은정말 재미있었다&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>ambito6666</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="python" />
+      
+
+      
+        <summary type="html">오늘은정말 재미있었다</summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>
