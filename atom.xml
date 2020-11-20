@@ -8,9 +8,55 @@
     
       
       <item>
+        <title>003.산넘어 산_2020.11.20</title>
+        
+          <description>&lt;p&gt;##&lt;strong&gt;오늘 한 일&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;블로그 만들기 마무리
+    &lt;ul&gt;
+      &lt;li&gt;
+        &lt;p&gt;어제도 언급했듯이 얼큰우동님의 [Jekyll 기반의 GitHub Page 생성] 강의를 듣고 만들었다.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;끝까지 다 듣긴 했지만 나에게는 여러 난관들이 있다.&lt;/p&gt;
+        &lt;ul&gt;
+          &lt;li&gt;Git에 대한 지식 전무 : Google Search Console에서 시키는 대로 해야하는데 어떻게 해야할 지 모르겠다. 내가 나중에 알게되면 꼭 관련해서 포스팅을 하고야 말겠다.&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+</description>
+        
+        <pubDate>Sat, 21 Nov 2020 01:40:00 +0900</pubDate>
+        <link>
+        https://sujungyou.github.io/TIL</link>
+        <guid isPermaLink="true">https://sujungyou.github.io/TIL</guid>
+      </item>
+      
+    
+      
+      <item>
         <title>Today I Learned</title>
         
-          <description>&lt;p&gt;오늘은정말 재미있었다&lt;/p&gt;
+          <description>&lt;p&gt;##&lt;strong&gt;오늘 한 일&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;Git 강의 수강
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;&quot;&gt;생활코딩&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;Git1 복습&lt;/li&gt;
+      &lt;li&gt;Git2 강의&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;자바 공부
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;&quot;&gt;자바의 정석&lt;/a&gt; 31강~&lt;/li&gt;
+      &lt;li&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
 </description>
         
         <pubDate>Fri, 20 Nov 2020 01:40:00 +0900</pubDate>
@@ -25,87 +71,13 @@
         <title>Today I Learned</title>
         
           <description>&lt;p&gt;오늘은정말 재미있었다&lt;/p&gt;
+
 </description>
         
         <pubDate>Fri, 20 Nov 2020 01:40:00 +0900</pubDate>
         <link>
         https://sujungyou.github.io/TIL</link>
         <guid isPermaLink="true">https://sujungyou.github.io/TIL</guid>
-      </item>
-      
-    
-      
-      <item>
-        <title>Java 강좌(3)-연산자</title>
-        
-          <description>&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt;Java 강좌는 여러 절로 구성되어 있습니다. &lt;/span&gt;&lt;/p&gt;
-&lt;ul class=&quot;table-of-contents-list&quot;&gt;
-    &lt;li&gt;&lt;a href=&quot;./Java(1)&quot;&gt;Java 강좌(1)-연산자&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&quot;./Java(2)&quot;&gt;Java 강좌(2)-연산자&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&quot;./Java(3)&quot;&gt;Java 강좌(3)-연산자&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-</description>
-        
-        <pubDate>Fri, 20 Nov 2020 01:40:00 +0900</pubDate>
-        <link>
-        https://sujungyou.github.io/Java(3)</link>
-        <guid isPermaLink="true">https://sujungyou.github.io/Java(3)</guid>
-      </item>
-      
-    
-      
-      <item>
-        <title>Java 강좌(2)-연산자</title>
-        
-          <description>&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt;Java 강좌는 여러 절로 구성되어 있습니다. &lt;/span&gt;&lt;/p&gt;
-&lt;ul class=&quot;table-of-contents-list&quot;&gt;
-    &lt;li&gt;&lt;a href=&quot;./Java(1)&quot;&gt;Java 강좌(1)-연산자&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&quot;./Java(2)&quot;&gt;Java 강좌(2)-연산자&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&quot;./Java(3)&quot;&gt;Java 강좌(3)-연산자&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-</description>
-        
-        <pubDate>Fri, 20 Nov 2020 01:40:00 +0900</pubDate>
-        <link>
-        https://sujungyou.github.io/Java(2)</link>
-        <guid isPermaLink="true">https://sujungyou.github.io/Java(2)</guid>
-      </item>
-      
-    
-      
-      <item>
-        <title>Java 연산자</title>
-        
-          <description>&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt;Java 강좌는 여러 절로 구성되어 있습니다. &lt;/span&gt;&lt;/p&gt;
-&lt;ul class=&quot;table-of-contents-list&quot;&gt;
-    &lt;li&gt;&lt;a href=&quot;./Java(1)&quot;&gt;Java 강좌(1)-연산자&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&quot;./Java(2)&quot;&gt;Java 강좌(2)-연산자&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&quot;./Java(3)&quot;&gt;Java 강좌(3)-연산자&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-</description>
-        
-        <pubDate>Fri, 20 Nov 2020 01:40:00 +0900</pubDate>
-        <link>
-        https://sujungyou.github.io/Java(1)</link>
-        <guid isPermaLink="true">https://sujungyou.github.io/Java(1)</guid>
-      </item>
-      
-    
-      
-      <item>
-        <title>Gettysburg Address</title>
-        
-          <description>&lt;p&gt;Fourscore and seven years ago our fathers brought forth on this continent, a new nation, conceived in Liberty, and dedicated to the proposition that all men are created equal.&lt;/p&gt;
-
-</description>
-        
-        <pubDate>Thu, 19 Nov 1863 19:18:00 +0900</pubDate>
-        <link>
-        https://sujungyou.github.io/gettysburg-address</link>
-        <guid isPermaLink="true">https://sujungyou.github.io/gettysburg-address</guid>
       </item>
       
     

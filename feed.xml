@@ -1,33 +1,447 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="https://sujungyou.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sujungyou.github.io/" rel="alternate" type="text/html" /><updated>2020-11-20T23:36:01+09:00</updated><id>https://sujungyou.github.io/</id><title type="html">Dev. Ambito</title><subtitle>1일 1포스팅하는 개발 블로그</subtitle><entry><title type="html">Today I Learned</title><link href="https://sujungyou.github.io/TIL" rel="alternate" type="text/html" title="Today I Learned" /><published>2020-11-20T01:40:00+09:00</published><updated>2020-11-20T01:40:00+09:00</updated><id>https://sujungyou.github.io/TIL</id><content type="html" xml:base="https://sujungyou.github.io/TIL">&lt;p&gt;오늘은정말 재미있었다&lt;/p&gt;</content><author><name>SuJung You</name></author><category term="python" /><summary type="html">오늘은정말 재미있었다</summary></entry><entry><title type="html">Today I Learned</title><link href="https://sujungyou.github.io/TIL" rel="alternate" type="text/html" title="Today I Learned" /><published>2020-11-20T01:40:00+09:00</published><updated>2020-11-20T01:40:00+09:00</updated><id>https://sujungyou.github.io/TIL</id><content type="html" xml:base="https://sujungyou.github.io/TIL">&lt;p&gt;오늘은정말 재미있었다&lt;/p&gt;</content><author><name>SuJung You</name></author><category term="python" /><summary type="html">오늘은정말 재미있었다</summary></entry><entry><title type="html">Java 강좌(3)-연산자</title><link href="https://sujungyou.github.io/Java(3)" rel="alternate" type="text/html" title="Java 강좌(3)-연산자" /><published>2020-11-20T01:40:00+09:00</published><updated>2020-11-20T01:40:00+09:00</updated><id>https://sujungyou.github.io/Java(3)</id><content type="html" xml:base="https://sujungyou.github.io/Java(3)">&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt;Java 강좌는 여러 절로 구성되어 있습니다. &lt;/span&gt;&lt;/p&gt;
-&lt;ul class=&quot;table-of-contents-list&quot;&gt;
-    &lt;li&gt;&lt;a href=&quot;./Java(1)&quot;&gt;Java 강좌(1)-연산자&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&quot;./Java(2)&quot;&gt;Java 강좌(2)-연산자&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&quot;./Java(3)&quot;&gt;Java 강좌(3)-연산자&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="https://sujungyou.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sujungyou.github.io/" rel="alternate" type="text/html" /><updated>2020-11-21T02:10:29+09:00</updated><id>https://sujungyou.github.io/</id><title type="html">Dev. Ambito</title><subtitle>1일 1포스팅하는 개발 블로그</subtitle><entry><title type="html">003.산넘어 산_2020.11.20</title><link href="https://sujungyou.github.io/TIL" rel="alternate" type="text/html" title="003.산넘어 산_2020.11.20" /><published>2020-11-21T01:40:00+09:00</published><updated>2020-11-21T01:40:00+09:00</updated><id>https://sujungyou.github.io/TIL</id><content type="html" xml:base="https://sujungyou.github.io/TIL">&lt;p&gt;##&lt;strong&gt;오늘 한 일&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;블로그 만들기 마무리
+    &lt;ul&gt;
+      &lt;li&gt;
+        &lt;p&gt;어제도 언급했듯이 얼큰우동님의 [Jekyll 기반의 GitHub Page 생성] 강의를 듣고 만들었다.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;끝까지 다 듣긴 했지만 나에게는 여러 난관들이 있다.&lt;/p&gt;
+        &lt;ul&gt;
+          &lt;li&gt;Git에 대한 지식 전무 : Google Search Console에서 시키는 대로 해야하는데 어떻게 해야할 지 모르겠다. 내가 나중에 알게되면 꼭 관련해서 포스팅을 하고야 말겠다.&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;자바 공부
+    &lt;ul&gt;
+      &lt;li&gt;그저께 강의 들은 부분까지 복습&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;youtube
+    &lt;ul&gt;
+      &lt;li&gt;어제자 타임랩스 업로드
+        &lt;ul&gt;
+          &lt;li&gt;자막 삽입&lt;/li&gt;
+          &lt;li&gt;다른 타입랩스들 보니까 자막을 꽤 많이 달더라. 시도해보니까 한시간 반 정도 걸리는 것 같은데 적당히 달아야겠다. 어차피 공부하려는 목적이니까 주객전도되지 말자.&lt;/li&gt;
+          &lt;li&gt;
+            &lt;table&gt;
+              &lt;tbody&gt;
+                &lt;tr&gt;
+                  &lt;td&gt;[[챌린지]&lt;/td&gt;
+                  &lt;td&gt;비전공자 개발공부&lt;/td&gt;
+                  &lt;td&gt;공부 타임랩스&lt;/td&gt;
+                  &lt;td&gt;2020.11.19&lt;/td&gt;
+                  &lt;td&gt;Day 2&lt;/td&gt;
+                  &lt;td&gt;개발&lt;/td&gt;
+                  &lt;td&gt;💻](https://youtu.be/D0c4kumL9KE)&lt;/td&gt;
+                &lt;/tr&gt;
+              &lt;/tbody&gt;
+            &lt;/table&gt;
+          &lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;오늘자 타임랩스 영상편집&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
 
-&lt;p&gt;오늘은정말 재미있었다&lt;/p&gt;</content><author><name>SuJung You</name></author><category term="Java" /><summary type="html">Java 강좌는 여러 절로 구성되어 있습니다. Java 강좌(1)-연산자 Java 강좌(2)-연산자 Java 강좌(3)-연산자</summary></entry><entry><title type="html">Java 강좌(2)-연산자</title><link href="https://sujungyou.github.io/Java(2)" rel="alternate" type="text/html" title="Java 강좌(2)-연산자" /><published>2020-11-20T01:40:00+09:00</published><updated>2020-11-20T01:40:00+09:00</updated><id>https://sujungyou.github.io/Java(2)</id><content type="html" xml:base="https://sujungyou.github.io/Java(2)">&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt;Java 강좌는 여러 절로 구성되어 있습니다. &lt;/span&gt;&lt;/p&gt;
-&lt;ul class=&quot;table-of-contents-list&quot;&gt;
-    &lt;li&gt;&lt;a href=&quot;./Java(1)&quot;&gt;Java 강좌(1)-연산자&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&quot;./Java(2)&quot;&gt;Java 강좌(2)-연산자&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&quot;./Java(3)&quot;&gt;Java 강좌(3)-연산자&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;오늘은 정말 재미있었다&lt;/p&gt;</content><author><name>SuJung You</name></author><category term="Java" /><summary type="html">Java 강좌는 여러 절로 구성되어 있습니다. Java 강좌(1)-연산자 Java 강좌(2)-연산자 Java 강좌(3)-연산자</summary></entry><entry><title type="html">Java 연산자</title><link href="https://sujungyou.github.io/Java(1)" rel="alternate" type="text/html" title="Java 연산자" /><published>2020-11-20T01:40:00+09:00</published><updated>2020-11-20T01:40:00+09:00</updated><id>https://sujungyou.github.io/Java(1)</id><content type="html" xml:base="https://sujungyou.github.io/Java(1)">&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt;Java 강좌는 여러 절로 구성되어 있습니다. &lt;/span&gt;&lt;/p&gt;
-&lt;ul class=&quot;table-of-contents-list&quot;&gt;
-    &lt;li&gt;&lt;a href=&quot;./Java(1)&quot;&gt;Java 강좌(1)-연산자&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&quot;./Java(2)&quot;&gt;Java 강좌(2)-연산자&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&quot;./Java(3)&quot;&gt;Java 강좌(3)-연산자&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;##&lt;strong&gt;내일 할 일&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;생활코딩님 Git 강의 수강
+ -깃… 정복하고 말테다&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;자바 공부
+    &lt;ul&gt;
+      &lt;li&gt;자바의 정석 강의 31강~&lt;/li&gt;
+      &lt;li&gt;익숙하지 않은 파트 복습&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;youtube
+    &lt;ul&gt;
+      &lt;li&gt;자막 삽입&lt;/li&gt;
+      &lt;li&gt;영상 업로드&lt;/li&gt;
+      &lt;li&gt;영상 편집&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
 
-&lt;p&gt;오늘은 정말 재미있었다&lt;/p&gt;
+&lt;noscript&gt;&lt;pre&gt;# Jekyll configuration
+markdown: kramdown
+# kramdown : markdown의 개조판.
+# markdown에서 불편한 사항을 개선한 형태.
 
-&lt;div class=&quot;language-javascript highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;syntaxHighlight&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;code&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-   &lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;foo&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;'Hello World'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-   &lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;bar&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;100&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+# MyData
+owner:
+  name:           SuJung You
+  avatar:         photo.jpg
+  bio:            &amp;quot;Developer&amp;quot;
+  email:          ambito6666@gmail.com
+  # Social networking links used in footer. Update and remove as you like.
+  twitter:
+  facebook:
+  github:
+  stackexchange:
+  linkedin:
+  instagram:
+  flickr:
+  tumblr:
+  # google plus id, include the &amp;#39;+&amp;#39;, eg +mmistakes
+  google_plus:
 
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content><author><name>SuJung You</name></author><category term="Java" /><summary type="html">Java 강좌는 여러 절로 구성되어 있습니다. Java 강좌(1)-연산자 Java 강좌(2)-연산자 Java 강좌(3)-연산자</summary></entry><entry><title type="html">Gettysburg Address</title><link href="https://sujungyou.github.io/gettysburg-address" rel="alternate" type="text/html" title="Gettysburg Address" /><published>1863-11-19T19:18:00+09:00</published><updated>1863-11-19T19:18:00+09:00</updated><id>https://sujungyou.github.io/gettysburg-address</id><content type="html" xml:base="https://sujungyou.github.io/gettysburg-address">&lt;p&gt;Fourscore and seven years ago our fathers brought forth on this continent, a new nation, conceived in Liberty, and dedicated to the proposition that all men are created equal.&lt;/p&gt;
+highlighter: rouge
+# text highlighter로 rouge이용
+# 2016.02월 이후로 syntax highlighter는 rouge만 지원.
+# Pygments 사용불가.
 
-&lt;p&gt;Now we are engaged in a great civil war, testing whether that nation, or any nation so conceived and so dedicated, can long endure. We are met on a great battle-field of that war. We have come to dedicate a portion of that field, as a final resting place for those who here gave their lives that that nation might live. It is altogether fitting and proper that we should do this.&lt;/p&gt;
+paginate: 20
+# 작성한 모든 post를 하나의 페이지에 열거할 수 없으니
+# pagination이 필요하고 몇개의 post를 하나의 page에서
+# 보여줄 건지를 설정.
 
-&lt;p&gt;But, in a larger sense, we can not dedicate-we can not consecrate-we can not hallow-this ground. The brave men, living and dead, who struggled here, have consecrated it, far above our poor power to add or detract. The world will little note, nor long remember what we say here, but it can never forget what they did here. It is for us the living, rather, to be dedicated here to the unfinished work which they who fought here have thus far so nobly advanced. It is rather for us to be here dedicated to the great task remaining before us-that from these honored dead we take increased devotion to that cause for which they gave the last full measure of devotion-that we here highly resolve that these dead shall not have died in vain-that this nation, under God, shall have a new birth of freedom-and that government of the people, by the people, for the people shall not perish from the earth.&lt;/p&gt;</content><author><name>abraham</name></author><summary type="html">Fourscore and seven years ago our fathers brought forth on this continent, a new nation, conceived in Liberty, and dedicated to the proposition that all men are created equal.</summary></entry></feed>
+language: &amp;#39;en-uk&amp;#39;
+# 언어 설정
+
+url: https://sujungyou.github.io
+# Google Search Console에서 사용하는 sitemap.xml 생성시
+# 이 url key값이 존재하지 않으면 sitemap.xml이
+# 정상적으로 생성되지 않는다.
+# 또한 disqus(댓글시스템)를 이용하기 위해서도 필요.
+# 자신의 github page url을 입력
+# ( https://your_github_id.github.io 형식 )
+
+baseurl: /
+
+# Website info
+title: Dev. Ambito
+# 자신의 blog title.
+
+description: 1일 1포스팅하는 개발 블로그
+# blog home에 표시될 blog에 대한 전반적인 설명.
+
+cover: assets/built/images/writing.jpg
+# blog home에 표시될 blog cover image.
+
+logo:
+logo_dark:
+
+favicon: assets/images/favicon.jpg
+# favicon으로 사용할 image
+
+production_url: https://yousujung.github.io/
+# 최종적으로 blog가 운영될 url
+
+source_url: https://github.com/ambito6666/GitHubPageMaker/
+# myblog(jekyll source folder)에 대한 github repository
+
+# Social info
+navigation: True
+# Navigation bar link를 보여줄건지 여부
+
+subscribers: True
+# subscriber 기능을 사용할건지의 여부
+# 저는 약간의 수정을 통해 subscriber 기능대신
+# lunr.js를 이용한 검색 기능으로 대체 사용했습니다.
+# 검색기능으로 대체하기 위해서
+# `_includes/subscribe-form.html` 파일의 수정이 필요합니다.
+
+twitter:
+facebook:
+# 만약 twitter와 facebook을 이용하면 username을 입력
+
+# Disqus
+disqus: True
+disqus_shortname: xxxxxxxx
+# disqus는 온라인 댓글 시스템. 댓글 기능을 사용하기 위해
+# disqus를 이용할 것인지 여부와 만약 사용하면
+# disqus shortname을 입력 ( disqus username이 아님 )
+
+
+# Google Analytics
+google_analytics: UA-xxxxxxxx-x # replace with your GA tracking identifier
+# Google Analytics을 사용할 경우 GA tracking identifier를 입력
+
+# Permalinks
+permalink: /:title
+# permalink: /author/:author
+# permalink: /tag/:title
+# 각각의 post에 고정주소를 어떤 방식으로 할당할 것인지를 결정
+# 이 값을 바꾸면 작성한 포스트의 저장위치나 파일이름이 변경된다.
+
+# gems and other configs
+plugins: [jekyll-paginate, jekyll-feed, jekyll-gist]
+
+feed:
+  path: feed.xml
+
+# Travis-CI 설정입니다.
+safe: False
+lsi: False
+
+username: sujungYou
+repo: GitHubPageMaker
+# username : travis-ci와 연동하는 github의 username
+# repo: travis-ci와 연동하는 github의 repository이름
+# https://github.com/&amp;lt;username&amp;gt;/&amp;lt;repository&amp;gt;
+
+branch: master
+# 사용할 branch명
+
+relative_source:
+
+destination: ../[GitHubPage]
+# compile된 결과가 생성되는 폴더
+# 이 폴더안의 내용이 우리가 운영하는 블로그 내용이 컴파일되서 들어간다.
+# 이 폴더안의 내용을 github repository(https://username.github.io)에 push
+# 만약 Travis-CI를 이용할 예정이면 이 부분을 git submodule로
+# github repository(https://username.github.io)에 연결해야 한다.
+
+
+# exclude는 Jekyll컴파일 시 destination에 포함될 필요가
+# 없는것들을 명시한다. (node_modules와 필요없는 것들은 제외)
+
+exclude:
+  - README.md
+  - Rakefile
+  - Gemfile
+  - Gemfile.lock
+  - changelog.md
+  - &amp;quot;*.Rmd&amp;quot;
+  - vendor
+  - .travis.yml
+  - node_modules
+#  - assets/css
+  - assets/images
+  - _posts/angular
+  - _posts/et-cetera
+  - _posts/python
+  - _posts/typescript
+  - _posts/jekyll
+  - _posts/iot
+  - _posts/r
+  - _posts/economy&lt;/pre&gt;&lt;/noscript&gt;
+&lt;script src=&quot;https://gist.github.com/sujungYou/26c14e4b0d9019f0af41bfb358d04c6a.js&quot;&gt; &lt;/script&gt;</content><author><name>Ambito</name></author><category term="TIL" /><summary type="html">##오늘 한 일 블로그 만들기 마무리 어제도 언급했듯이 얼큰우동님의 [Jekyll 기반의 GitHub Page 생성] 강의를 듣고 만들었다. 끝까지 다 듣긴 했지만 나에게는 여러 난관들이 있다. Git에 대한 지식 전무 : Google Search Console에서 시키는 대로 해야하는데 어떻게 해야할 지 모르겠다. 내가 나중에 알게되면 꼭 관련해서 포스팅을 하고야 말겠다.</summary></entry><entry><title type="html">Today I Learned</title><link href="https://sujungyou.github.io/TIL" rel="alternate" type="text/html" title="Today I Learned" /><published>2020-11-20T01:40:00+09:00</published><updated>2020-11-20T01:40:00+09:00</updated><id>https://sujungyou.github.io/TIL</id><content type="html" xml:base="https://sujungyou.github.io/TIL">&lt;p&gt;##&lt;strong&gt;오늘 한 일&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;Git 강의 수강
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;&quot;&gt;생활코딩&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;Git1 복습&lt;/li&gt;
+      &lt;li&gt;Git2 강의&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;자바 공부
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;&quot;&gt;자바의 정석&lt;/a&gt; 31강~&lt;/li&gt;
+      &lt;li&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;youtube
+    &lt;ul&gt;
+      &lt;li&gt;어제자 타임랩스 업로드
+        &lt;ul&gt;
+          &lt;li&gt;자막 삽입&lt;/li&gt;
+          &lt;li&gt;
+            &lt;table&gt;
+              &lt;tbody&gt;
+                &lt;tr&gt;
+                  &lt;td&gt;[[챌린지]&lt;/td&gt;
+                  &lt;td&gt;비전공자 개발공부&lt;/td&gt;
+                  &lt;td&gt;공부 타임랩스&lt;/td&gt;
+                  &lt;td&gt;2020.11.19&lt;/td&gt;
+                  &lt;td&gt;Day 2&lt;/td&gt;
+                  &lt;td&gt;개발&lt;/td&gt;
+                  &lt;td&gt;💻](https://youtu.be/D0c4kumL9KE)&lt;/td&gt;
+                &lt;/tr&gt;
+              &lt;/tbody&gt;
+            &lt;/table&gt;
+          &lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;오늘자 타임랩스 영상편집&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;##&lt;strong&gt;내일 할 일&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;생활코딩님 Git 강의 수강
+ -깃… 정복하고 말테다&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;자바 공부
+    &lt;ul&gt;
+      &lt;li&gt;자바의 정석 강의 강~&lt;/li&gt;
+      &lt;li&gt;익숙하지 않은 파트 복습&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;youtube
+    &lt;ul&gt;
+      &lt;li&gt;자막 삽입&lt;/li&gt;
+      &lt;li&gt;영상 업로드&lt;/li&gt;
+      &lt;li&gt;영상 편집&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;</content><author><name>Ambito</name></author><category term="TIL" /><summary type="html">##오늘 한 일 Git 강의 수강 생활코딩 Git1 복습 Git2 강의 자바 공부 자바의 정석 31강~</summary></entry><entry><title type="html">Today I Learned</title><link href="https://sujungyou.github.io/TIL" rel="alternate" type="text/html" title="Today I Learned" /><published>2020-11-20T01:40:00+09:00</published><updated>2020-11-20T01:40:00+09:00</updated><id>https://sujungyou.github.io/TIL</id><content type="html" xml:base="https://sujungyou.github.io/TIL">&lt;p&gt;오늘은정말 재미있었다&lt;/p&gt;
+
+&lt;noscript&gt;&lt;pre&gt;# Jekyll configuration
+markdown: kramdown
+# kramdown : markdown의 개조판.
+# markdown에서 불편한 사항을 개선한 형태.
+
+# MyData
+owner:
+  name:           SuJung You
+  avatar:         photo.jpg
+  bio:            &amp;quot;Developer&amp;quot;
+  email:          ambito6666@gmail.com
+  # Social networking links used in footer. Update and remove as you like.
+  twitter:
+  facebook:
+  github:
+  stackexchange:
+  linkedin:
+  instagram:
+  flickr:
+  tumblr:
+  # google plus id, include the &amp;#39;+&amp;#39;, eg +mmistakes
+  google_plus:
+
+highlighter: rouge
+# text highlighter로 rouge이용
+# 2016.02월 이후로 syntax highlighter는 rouge만 지원.
+# Pygments 사용불가.
+
+paginate: 20
+# 작성한 모든 post를 하나의 페이지에 열거할 수 없으니
+# pagination이 필요하고 몇개의 post를 하나의 page에서
+# 보여줄 건지를 설정.
+
+language: &amp;#39;en-uk&amp;#39;
+# 언어 설정
+
+url: https://sujungyou.github.io
+# Google Search Console에서 사용하는 sitemap.xml 생성시
+# 이 url key값이 존재하지 않으면 sitemap.xml이
+# 정상적으로 생성되지 않는다.
+# 또한 disqus(댓글시스템)를 이용하기 위해서도 필요.
+# 자신의 github page url을 입력
+# ( https://your_github_id.github.io 형식 )
+
+baseurl: /
+
+# Website info
+title: Dev. Ambito
+# 자신의 blog title.
+
+description: 1일 1포스팅하는 개발 블로그
+# blog home에 표시될 blog에 대한 전반적인 설명.
+
+cover: assets/built/images/writing.jpg
+# blog home에 표시될 blog cover image.
+
+logo:
+logo_dark:
+
+favicon: assets/images/favicon.jpg
+# favicon으로 사용할 image
+
+production_url: https://yousujung.github.io/
+# 최종적으로 blog가 운영될 url
+
+source_url: https://github.com/ambito6666/GitHubPageMaker/
+# myblog(jekyll source folder)에 대한 github repository
+
+# Social info
+navigation: True
+# Navigation bar link를 보여줄건지 여부
+
+subscribers: True
+# subscriber 기능을 사용할건지의 여부
+# 저는 약간의 수정을 통해 subscriber 기능대신
+# lunr.js를 이용한 검색 기능으로 대체 사용했습니다.
+# 검색기능으로 대체하기 위해서
+# `_includes/subscribe-form.html` 파일의 수정이 필요합니다.
+
+twitter:
+facebook:
+# 만약 twitter와 facebook을 이용하면 username을 입력
+
+# Disqus
+disqus: True
+disqus_shortname: xxxxxxxx
+# disqus는 온라인 댓글 시스템. 댓글 기능을 사용하기 위해
+# disqus를 이용할 것인지 여부와 만약 사용하면
+# disqus shortname을 입력 ( disqus username이 아님 )
+
+
+# Google Analytics
+google_analytics: UA-xxxxxxxx-x # replace with your GA tracking identifier
+# Google Analytics을 사용할 경우 GA tracking identifier를 입력
+
+# Permalinks
+permalink: /:title
+# permalink: /author/:author
+# permalink: /tag/:title
+# 각각의 post에 고정주소를 어떤 방식으로 할당할 것인지를 결정
+# 이 값을 바꾸면 작성한 포스트의 저장위치나 파일이름이 변경된다.
+
+# gems and other configs
+plugins: [jekyll-paginate, jekyll-feed, jekyll-gist]
+
+feed:
+  path: feed.xml
+
+# Travis-CI 설정입니다.
+safe: False
+lsi: False
+
+username: sujungYou
+repo: GitHubPageMaker
+# username : travis-ci와 연동하는 github의 username
+# repo: travis-ci와 연동하는 github의 repository이름
+# https://github.com/&amp;lt;username&amp;gt;/&amp;lt;repository&amp;gt;
+
+branch: master
+# 사용할 branch명
+
+relative_source:
+
+destination: ../[GitHubPage]
+# compile된 결과가 생성되는 폴더
+# 이 폴더안의 내용이 우리가 운영하는 블로그 내용이 컴파일되서 들어간다.
+# 이 폴더안의 내용을 github repository(https://username.github.io)에 push
+# 만약 Travis-CI를 이용할 예정이면 이 부분을 git submodule로
+# github repository(https://username.github.io)에 연결해야 한다.
+
+
+# exclude는 Jekyll컴파일 시 destination에 포함될 필요가
+# 없는것들을 명시한다. (node_modules와 필요없는 것들은 제외)
+
+exclude:
+  - README.md
+  - Rakefile
+  - Gemfile
+  - Gemfile.lock
+  - changelog.md
+  - &amp;quot;*.Rmd&amp;quot;
+  - vendor
+  - .travis.yml
+  - node_modules
+#  - assets/css
+  - assets/images
+  - _posts/angular
+  - _posts/et-cetera
+  - _posts/python
+  - _posts/typescript
+  - _posts/jekyll
+  - _posts/iot
+  - _posts/r
+  - _posts/economy&lt;/pre&gt;&lt;/noscript&gt;
+&lt;script src=&quot;https://gist.github.com/sujungYou/26c14e4b0d9019f0af41bfb358d04c6a.js&quot;&gt; &lt;/script&gt;</content><author><name>SuJung You</name></author><category term="TIL" /><summary type="html">오늘은정말 재미있었다</summary></entry></feed>
