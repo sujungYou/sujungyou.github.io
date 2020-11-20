@@ -2,10 +2,10 @@
 
 <feed xmlns="http://www.w3.org/2005/Atom" >
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
-  <link href="https://ambito6666.github.io/tag/java/feed.xml" rel="self" type="application/atom+xml" />
-  <link href="https://ambito6666.github.io/" rel="alternate" type="text/html" />
-  <updated>2020-11-20T12:13:03+09:00</updated>
-  <id>https://ambito6666.github.io/tag/java/feed.xml</id>
+  <link href="https://sujungyou.github.io/tag/java/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="https://sujungyou.github.io/" rel="alternate" type="text/html" />
+  <updated>2020-11-20T23:36:01+09:00</updated>
+  <id>https://sujungyou.github.io/tag/java/feed.xml</id>
 
   
   
@@ -16,7 +16,7 @@
   
 
   
-    <subtitle>1일 1포스팅 개발 블로그</subtitle>
+    <subtitle>1일 1포스팅하는 개발 블로그</subtitle>
   
 
   
@@ -33,11 +33,11 @@
   
     <entry>
       <title type="html">Java 강좌(2)-연산자</title>
-      <link href="https://ambito6666.github.io/Java(2)" rel="alternate" type="text/html" title="Java 강좌(2)-연산자" />
+      <link href="https://sujungyou.github.io/Java(2)" rel="alternate" type="text/html" title="Java 강좌(2)-연산자" />
       <published>2020-11-20T01:40:00+09:00</published>
       <updated>2020-11-20T01:40:00+09:00</updated>
-      <id>https://ambito6666.github.io/Java(2)</id>
-      <content type="html" xml:base="https://ambito6666.github.io/Java(2)">&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt;Java 강좌는 여러 절로 구성되어 있습니다. &lt;/span&gt;&lt;/p&gt;
+      <id>https://sujungyou.github.io/Java(2)</id>
+      <content type="html" xml:base="https://sujungyou.github.io/Java(2)">&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt;Java 강좌는 여러 절로 구성되어 있습니다. &lt;/span&gt;&lt;/p&gt;
 &lt;ul class=&quot;table-of-contents-list&quot;&gt;
     &lt;li&gt;&lt;a href=&quot;./Java(1)&quot;&gt;Java 강좌(1)-연산자&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href=&quot;./Java(2)&quot;&gt;Java 강좌(2)-연산자&lt;/a&gt;&lt;/li&gt;
@@ -53,7 +53,7 @@
       
 
       <author>
-          <name>ambito6666</name>
+          <name>SuJung You</name>
         
         
       </author>
@@ -74,18 +74,25 @@
   
     <entry>
       <title type="html">Java 연산자</title>
-      <link href="https://ambito6666.github.io/Java(1)" rel="alternate" type="text/html" title="Java 연산자" />
+      <link href="https://sujungyou.github.io/Java(1)" rel="alternate" type="text/html" title="Java 연산자" />
       <published>2020-11-20T01:40:00+09:00</published>
       <updated>2020-11-20T01:40:00+09:00</updated>
-      <id>https://ambito6666.github.io/Java(1)</id>
-      <content type="html" xml:base="https://ambito6666.github.io/Java(1)">&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt;Java 강좌는 여러 절로 구성되어 있습니다. &lt;/span&gt;&lt;/p&gt;
+      <id>https://sujungyou.github.io/Java(1)</id>
+      <content type="html" xml:base="https://sujungyou.github.io/Java(1)">&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt;Java 강좌는 여러 절로 구성되어 있습니다. &lt;/span&gt;&lt;/p&gt;
 &lt;ul class=&quot;table-of-contents-list&quot;&gt;
     &lt;li&gt;&lt;a href=&quot;./Java(1)&quot;&gt;Java 강좌(1)-연산자&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href=&quot;./Java(2)&quot;&gt;Java 강좌(2)-연산자&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href=&quot;./Java(3)&quot;&gt;Java 강좌(3)-연산자&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;오늘은 정말 재미있었다&lt;/p&gt;</content>
+&lt;p&gt;오늘은 정말 재미있었다&lt;/p&gt;
+
+&lt;div class=&quot;language-javascript highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;syntaxHighlight&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;code&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+   &lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;foo&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;'Hello World'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+   &lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;bar&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;100&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content>
 
       
       
@@ -94,7 +101,7 @@
       
 
       <author>
-          <name>ambito6666</name>
+          <name>SuJung You</name>
         
         
       </author>
@@ -115,11 +122,11 @@
   
     <entry>
       <title type="html">Java 강좌(3)-연산자</title>
-      <link href="https://ambito6666.github.io/Java(3)" rel="alternate" type="text/html" title="Java 강좌(3)-연산자" />
+      <link href="https://sujungyou.github.io/Java(3)" rel="alternate" type="text/html" title="Java 강좌(3)-연산자" />
       <published>2020-11-20T01:40:00+09:00</published>
       <updated>2020-11-20T01:40:00+09:00</updated>
-      <id>https://ambito6666.github.io/Java(3)</id>
-      <content type="html" xml:base="https://ambito6666.github.io/Java(3)">&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt;Java 강좌는 여러 절로 구성되어 있습니다. &lt;/span&gt;&lt;/p&gt;
+      <id>https://sujungyou.github.io/Java(3)</id>
+      <content type="html" xml:base="https://sujungyou.github.io/Java(3)">&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt;Java 강좌는 여러 절로 구성되어 있습니다. &lt;/span&gt;&lt;/p&gt;
 &lt;ul class=&quot;table-of-contents-list&quot;&gt;
     &lt;li&gt;&lt;a href=&quot;./Java(1)&quot;&gt;Java 강좌(1)-연산자&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href=&quot;./Java(2)&quot;&gt;Java 강좌(2)-연산자&lt;/a&gt;&lt;/li&gt;
@@ -135,7 +142,7 @@
       
 
       <author>
-          <name>ambito6666</name>
+          <name>SuJung You</name>
         
         
       </author>

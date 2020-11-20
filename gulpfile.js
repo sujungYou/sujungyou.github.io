@@ -28,7 +28,7 @@ gulp.task('css', function () {
         cssnano()
     ];
 
-    return gulp.src('assets/css/*.css')
+     return gulp.src('assets/css/*.css')
         .pipe(sourcemaps.init())
         .pipe(postcss(processors))
         .pipe(sourcemaps.write('.'))
